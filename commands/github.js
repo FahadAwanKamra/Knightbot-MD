@@ -5,7 +5,7 @@ async function githubCommand(sock, chatId) {
 https://github.com/mruniquehacker/Knightbot-MD
 
 *📢 Official Channel:*
-https://youtube.com/@mr_unique_hacker
+https://youtube.com/@FAHADTIPS&TRICKS
 
 _Star ⭐ the repository if you like the bot!_`;
 
@@ -16,8 +16,8 @@ _Star ⭐ the repository if you like the bot!_`;
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '0029Vb0bHpc0G0XmMnX7H91n@newsletter.whatsapp.com',
+                    newsletterName: '𝙇𝙀𝙊 𝙏𝙀𝘾𝙃',
                     serverMessageId: -1
                 }
             }
