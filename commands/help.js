@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || '𝙇𝙀𝙊 𝙏𝙀𝘾𝙃'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || '𝙁𝘼𝙃𝘼𝘿 𝘼𝙒𝘼𝙉'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -165,8 +165,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '0029Vb0bHpc0G0XmMnX7H91n@newsletter',
+                        newsletterName: '𝙇𝙀𝙊 𝙏𝙀𝘾𝙃',
                         serverMessageId: -1
                     }
                 }
@@ -179,8 +179,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '0029Vb0bHpc0G0XmMnX7H91n@newsletter',
+                        newsletterName: '𝙇𝙀𝙊 𝙏𝙀𝘾𝙃',
                         serverMessageId: -1
                     } 
                 }
