@@ -7,8 +7,8 @@ const channelInfo = {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterJid: '0029Vb0bHpc0G0XmMnX7H91n@newsletter.whatsapp.com',
+            newsletterName: 'LEO TECH',
             serverMessageId: -1
         }
     }
