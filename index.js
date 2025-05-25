@@ -250,10 +250,10 @@ async function startXeonBotInc() {
                 \n✅Make sure to join below channel`,
                 contextInfo: {
                     forwardingScore: 1,
-                    isForwarded: true,
+                    isForwarded: false,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterName: 'LEO TECH',
                         serverMessageId: -1
                     }
                 }
