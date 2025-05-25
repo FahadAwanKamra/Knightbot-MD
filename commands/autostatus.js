@@ -6,12 +6,13 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterJid: '0029Vb0bHpc0G0XmMnX7H91n@newsletter.whatsapp.com',
+            newsletterName: 'LEO TECH',
             serverMessageId: -1
         }
     }
 };
+
 
 // Path to store auto status configuration
 const configPath = path.join(__dirname, '../data/autoStatus.json');
